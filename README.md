@@ -19,3 +19,13 @@
 <p dir="auto" style="direction: rtl;">V2Ray یک پروتکل VPN جدید و پیشرفته است که یک اتصال رمزگذاری شده، سریع و بدون ردیابی بین دستگاه شما و اینترنت را ایجاد می‌کند. این اتصال امن به محض فعال کردن ...</p>
 <p dir="auto"><strong>فروش تنهافیلتر شکن فعال و نامحدود با سرعت بالا. خریدوی پی ان با پشتیبانی 24 ساعته. فروش وی پی ان. خریدvpn. Services: v2ray, فیلترشکن پرسرعت, وی پی ان نامحدود, برای آیفون و اندروید.</strong></p>
 &nbsp;
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11480705805"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-11480705805');
+</script>
