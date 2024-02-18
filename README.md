@@ -4,9 +4,11 @@
 
 <h4 style="text-align:right">یا برای خرید فیلترشکن به آی دی تلگرام زیر پیام دهید: <a href="https://t.me/Firewpn" rel="nofollow">firewpn</a></h4>
 
-<h4 style="text-align:right">&nbsp;یا برای خرید فیلترشکن به ایمیل زیر پیام دهید:</h4>
+<h4 style="text-align:right"><strong><span style="color:#c0392b">&nbsp;در صورتی که وی پی ان ندارید و امکان دسترسی به تلگرام ندارید از طریق ایمیل و چت آنلاین سایت اقدام نمایید :</span></strong></h4>
 
 <h4 style="text-align:right"><a href="mailto:wpnfire2024@gmail.com">wpnfire2024@gmail.com</a></h4>
+
+<p><a href="https://fireads.shop"><strong>ورود به سایت و چت آنلاین&nbsp;</strong></a></p>
 
 <h2 style="text-align:center"><strong>مزایای سرویس&nbsp;</strong></h2>
 
