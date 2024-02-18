@@ -6,9 +6,11 @@
 
 <h4 style="text-align:right"><strong><span style="color:#c0392b">&nbsp;در صورتی که وی پی ان ندارید و امکان دسترسی به تلگرام ندارید از طریق ایمیل و چت آنلاین سایت اقدام نمایید :</span></strong></h4>
 
+<p><a href="https://fireads.shop"><strong>ورود به سایت و چت آنلاین&nbsp;</strong></a></p>
+
+
 <h4 style="text-align:right"><a href="mailto:wpnfire2024@gmail.com">wpnfire2024@gmail.com</a></h4>
 
-<p><a href="https://fireads.shop"><strong>ورود به سایت و چت آنلاین&nbsp;</strong></a></p>
 
 <h2 style="text-align:center"><strong>مزایای سرویس&nbsp;</strong></h2>
 
