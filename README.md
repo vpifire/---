@@ -1,6 +1,6 @@
 <h3 style="text-align:center"><a href="https://t.me/Firewpn" rel="nofollow">برای خرید وی پی ان از طریق تلگرام کلیک کنید ( باید وی پی ان شما روشن باشد یا دارای پروکسی تلگرام باشید )</a></h3>
 
-<h3 style="text-align:center"><strong>&nbsp;سرویس نامحدود فقط 100 هزار تومان به همراه تست قبل از خرید</strong></h3>
+<h3 style="text-align:center"><strong>&nbsp;سرویس بسیار با کیفیت به همراه تست قبل از خرید</strong></h3>
 
 <h4 style="text-align:right">یا برای خرید فیلترشکن به آی دی تلگرام زیر پیام دهید: <a href="https://t.me/Firewpn" rel="nofollow">firewpn</a></h4>
 
